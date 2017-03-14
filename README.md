@@ -1,1 +1,1 @@
-# Convolutional-Neural-Network-on-CIFAR-10
+# Convolutional Neural Network on CIFAR10
